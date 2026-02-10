@@ -1,3 +1,0 @@
-x = "Yuvraj Gupta"
-y = 20
-z= 5.6

@@ -1,1 +1,0 @@
-Monthly salary = float(input("Enter your Monthly salary:"))
