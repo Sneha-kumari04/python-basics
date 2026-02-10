@@ -1,0 +1,4 @@
+.history/
+*.exe
+*.log
+__pycache__/
