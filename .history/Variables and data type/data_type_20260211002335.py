@@ -1,8 +1,7 @@
 """
-This program :
-- Prints data types of variables.
-
+Docstring for Variables and data type.data_type
 """
+
 x = "Yuvraj Gupta"
 y = 20
 z= 5.6

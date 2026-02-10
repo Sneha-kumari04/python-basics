@@ -1,7 +1,6 @@
 """
 This program :
 - Prints data types of variables.
-
 """
 x = "Yuvraj Gupta"
 y = 20

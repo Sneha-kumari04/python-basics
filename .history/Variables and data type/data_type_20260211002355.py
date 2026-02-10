@@ -1,8 +1,8 @@
 """
 This program :
-- Prints data types of variables.
-
+- prints
 """
+
 x = "Yuvraj Gupta"
 y = 20
 z= 5.6

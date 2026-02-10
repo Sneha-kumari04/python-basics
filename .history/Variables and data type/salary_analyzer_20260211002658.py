@@ -1,0 +1,1 @@
+Monthly salary = int(input)
